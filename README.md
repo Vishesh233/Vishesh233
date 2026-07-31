@@ -40,7 +40,7 @@
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
 | 🔳 **QR Code Studio v2** | Full GUI desktop app — Generate & Scan QR codes with logo embedding, custom colors & clipboard export | Python · CustomTkinter · qrcode · pyzbar · Pillow | [GitHub](https://github.com/Vishesh233/QR-Code-Studio-v2) |
-|🎮 Number Guessing Game | Interactive game with difficulty levels, timer & hints | HTML · CSS · JS | [GitHub](https://github.com/Vishesh233/-Number-Guessing-Game) |   
+|🎮**Number Guessing Game** | Interactive game with difficulty levels, timer & hints | HTML · CSS · JS | [GitHub](https://github.com/Vishesh233/-Number-Guessing-Game) |   
 | 🌐 Coming Soon | Web project in progress | HTML · CSS · JS | - |
 
 ---
